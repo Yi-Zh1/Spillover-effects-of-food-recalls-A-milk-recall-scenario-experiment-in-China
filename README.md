@@ -1,1 +1,1 @@
-Please use pulicly tool Stata 16 to analyse.
+Note: The analysis software we used is Stata 16.
